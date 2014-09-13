@@ -44,19 +44,19 @@
     <!-- Button name on screen to clear the entire calculation field. [CHAR LIMIT=6] -->
     <string name="clear">CLR</string>
     <!-- Do not translate. Unicode division sign; don't translate. Displayed as button on screen. -->
-    <string name="div">\u00f7</string>
+    <string name="div" translate="false">\u00f7</string>
     <!-- Do not translate. Unicode multiplication sign; don't translate. Displayed as button on screen. -->
-    <string name="mul">\u00d7</string>
+    <string name="mul" translate="false">\u00d7</string>
     <!-- Do not translate. Plus sign, displayed as button on screen -->
-    <string name="plus">+</string>
+    <string name="plus" translate="false">+</string>
     <!-- Do not translate. Unicode minus sign; don't translate. Displayed as button on screen. -->
-    <string name="minus">\u2212</string>
+    <string name="minus" translate="false">\u2212</string>
     <!-- Do not translate. Decimal point; don't translate. Displayed as button on screen. -->
-    <string name="dot">.</string>
+    <string name="dot" translate="false">.</string>
     <!-- Do not translate. Equal sign; don't translate. Displayed as button on screen. -->
-    <string name="equal">=</string>
+    <string name="equal" translate="false">=</string>
     <!-- Do not translate. Down arrow; don't translate. Displayed as button on screen. -->
-    <string name="enter">\u2193</string>
+    <string name="enter" translate="false">\u2193</string>
     <!-- Displayed on buttons on screen for the sin function. -->
     <string name="sin">sin</string>
     <!-- Do not translate. What we replace translated SIN with for calculating sin.-->
@@ -70,7 +70,7 @@
     <!-- Do not translate. What we replace translated TAN with for calculating tan. -->
     <string translate="false" name="tan_mathematical_value">tan</string>
     <!-- Do not translate. Unicode pi sign; don't translate. Displayed as button on screen. -->
-    <string name="pi">\u03c0</string>
+    <string name="pi" translate="false">\u03c0</string>
     <!-- Displayed on buttons on screen for the e function. -->
     <string name="e">e</string>
     <!-- Do not translate. What we replace translated e with for calculating e. -->
@@ -88,11 +88,11 @@
     <!-- Displayed on buttons on screen for a right parenthesis. -->
     <string name="rightParen">)</string>
     <!-- Do not translate. Unicode square root sign; don't translate. Displayed on button on screen. -->
-    <string name="sqrt">\u221a</string>
+    <string name="sqrt" translate="false">\u221a</string>
     <!-- Do not translate. Displayed on buttons on screen. -->
-    <string name="power">^</string>
+    <string name="power" translate="false">^</string>
     <!-- Do not translate. -->
-    <string name="factorial">!</string>
+    <string name="factorial" translate="false">!</string>
     <!-- Menu item text to take user to the screen with the basic digits and operators. -->
     <string name="basic">Basic panel</string>
     <!-- Menu item text to take user to the screen with the advanced functions, such as sin, cos, ln, log, etc. -->
